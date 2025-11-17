@@ -1,0 +1,2624 @@
+{
+  "pipeline": [
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05700315.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04250270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800185.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05600210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05500215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05550220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05650315.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450325.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04200255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05800315.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04250220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050310.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05550320.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05600310.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04200260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500325.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000325.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400320.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04200275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05850320.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05550215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450330.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05550310.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04250275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05800320.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04250240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04250265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04250250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05500195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150310.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04250245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550310.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450185.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500330.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05550300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04200250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05750320.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550315.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05600305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550330.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650185.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04250280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05500300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450330.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04250205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500185.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250180.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04250235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550325.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050320.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05500305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05600200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04200270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050325.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450335.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05500205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05500200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000310.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300180.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450310.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05550195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04200245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450315.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04250210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05500230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300185.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05550210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400325.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04250215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550185.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05850315.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750185.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05550200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500335.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05500220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05650310.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05750315.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04250260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05500310.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100310.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050185.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05600315.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05500225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04200265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500320.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500315.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05550305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05500320.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05500325.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550320.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05600205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600185.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250185.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05500295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05500315.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500310.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000320.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05500330.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04350190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100185.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700185.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04250255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05600215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850185.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04900295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04750295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05550315.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400330.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04650215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200185.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150185.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05500210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04700260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04800280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04400270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05350235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04250225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04300195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04550280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04500250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05150265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05100295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05200210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04600235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450320.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04450205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05550325.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05450295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04850235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04250230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05550205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05250290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05300200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05400215.laz"
+    },
+    {
+      "type": "filters.range",
+      "limits": "Classification![7:7]"
+    },
+    {
+      "type": "writers.gdal",
+      "filename": "lidar_merged.tif",
+      "gdaldriver": "GTiff",
+      "output_type": "max",
+      "resolution": 0.5,
+      "nodata": -9999
+    }
+  ]
+}

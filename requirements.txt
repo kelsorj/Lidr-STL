@@ -1,0 +1,12 @@
+numpy
+rasterio
+trimesh
+tqdm
+requests
+
+# For OSM building data processing
+osmnx
+geopandas
+shapely
+pyproj
+

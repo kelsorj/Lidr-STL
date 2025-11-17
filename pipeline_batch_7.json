@@ -1,0 +1,216 @@
+{
+  "pipeline": [
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_04950305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000250.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000255.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000260.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000265.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000270.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000275.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000280.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000285.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000290.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000295.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000300.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000305.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000310.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000320.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05000325.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050185.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050190.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050195.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050200.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050205.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050210.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050215.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050220.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050225.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050230.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050235.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050240.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050245.laz"
+    },
+    {
+      "type": "readers.las",
+      "filename": "lidar_laz/USGS_LPC_CA_SanFrancisco_B23_05050250.laz"
+    },
+    {
+      "type": "filters.range",
+      "limits": "Classification![7:7]"
+    },
+    {
+      "type": "writers.gdal",
+      "filename": "lidar_batch_7.tif",
+      "gdaldriver": "GTiff",
+      "output_type": "max",
+      "resolution": 0.5,
+      "nodata": -9999
+    }
+  ]
+}
